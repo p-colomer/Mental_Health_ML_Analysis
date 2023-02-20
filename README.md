@@ -1,4 +1,4 @@
-# Mental Health - Machine Learning Analysis
+# Mental Health
 ![mental_health](https://photographylife.com/wp-content/uploads/2016/06/Mass.jpg)
 
 ## Team
