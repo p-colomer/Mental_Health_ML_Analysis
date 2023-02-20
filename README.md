@@ -26,7 +26,6 @@ Analysing Mental Health
 -   Input CSV files in the folder "Resources".
 -   Output CSV files in the folder "Cleaned_data".
 
-## Summary
 
 ## Introduction
 Mental health includes our emotional, psychological, and social well-being. It affects how we think, feel, and act. It also helps determine how we handle stress, relate to others, and make healthy choices. Mental health is important at every stage of life, from childhood and adolescence through adulthood.
@@ -38,7 +37,7 @@ We will clean the data using python and combine the DataFrames using SQL.
 We will use the cleaned data to train a ML model that can predict the future prevalence of mental health disorders around the world including: depression, schizophrenia, bipolar disorders, eating disorders, sleeping disorders, etc.
 We will then use the analysed data to create visualisations that can better illustrate our findings. 
 
-The analysis should help us derive meaningful conclusions from the data.
+The analysis will help us derive meaningful conclusions from the data.
 
 ## Data Exploration and Cleaning
 We have used one dataset from Kaggle: https://www.kaggle.com/datasets/programmerrdai/mental-health-dataset?select=share-with-mental-or-substance-disorders-by-sex.csv
