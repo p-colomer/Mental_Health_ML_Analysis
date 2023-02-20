@@ -55,7 +55,7 @@ The data can be found at this website: https://www.kaggle.com/datasets/programme
 
 For this project, data was taken from the years between 1989 and 2022 and consisted of worldwide geospatial coverage.
 
-## Apprach
+## Approach
 
 The approach for this project was to create a Linear Regression model to ----. Using these predicted values we created Tableau vizualisations to compare and contrast -----
 
