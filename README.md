@@ -32,7 +32,7 @@
 
 Nearly one billion people suffer from a mental health condition. A mental disorder is characterized by a clinically significant disturbance in an individual’s cognition, emotional regulation, or behaviour.  It is usually associated with distress or impairment in important areas of functioning.
 
-Using data from Our World in Data[¹](https://ourworldindata.org/mental-health), machine learning was applied to predict the percentage of the population that will suffer a mental health condition in the 2030 to 2080. These predictions could be used to recognize and develop ways to help the rising amount of people in the population with a mental health condition. Using tableau, we were able to relate the percentage of those with mental health conditions to -----
+Using data from Our World in Data[¹](https://ourworldindata.org/mental-health), machine learning was applied to predict the percentage of the population that will suffer a mental health condition in the years 2030 to 2080. These predictions could be used to recognize and develop ways to help the rising amount of people in the population with a mental health condition. Using tableau, we were able to relate the percentage of those with mental health conditions to -----
 
 The results show that ----
 
