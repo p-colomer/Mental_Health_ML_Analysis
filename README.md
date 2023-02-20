@@ -27,6 +27,7 @@
 -   SciPy
 -   Scikit-Learn
 -   Tableau
+-   SQL
 
 ## Abstract 
 
