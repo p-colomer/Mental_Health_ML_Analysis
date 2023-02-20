@@ -74,7 +74,10 @@ The data was scaled  with the goal of increasing accuracy of the models. The mod
 ## References
 
 ¹ Our World in Data, Mental Health: https://ourworldindata.org/mental-health
+
 ² National Center for Biotechnology Information, Information About Mental Illness and The Brain: https://www.ncbi.nlm.nih.gov/books/NBK20369/
+
 ³ World Health Organisation Mental Health Overview: https://www.who.int/news-room/fact-sheets/detail/mental-disorders
+
 ⁴ National Center for Biotechnology Informtation, Suicide Risk and Mental Disorders: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6165520/
 
