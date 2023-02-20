@@ -58,7 +58,7 @@ For this project, data was taken from the years between 1989 and 2022 and consis
 
 ## Approach
 
-The approach for this project was to create many different model types to see what performs the best and to compare and contrast the different types of models. The modeling effort was done starting with simpler models and moving to more complex models.
+The approach for this project was to create many different model types to see what performs the best and to compare and contrast the different types of models. The modeling effort was done starting with simpler models and moving to more complex models. The models used were SVR, XGBoost, Random Forest, Decision Tree and ANN
 
 ## Project Flowchart
 
@@ -66,7 +66,7 @@ The approach for this project was to create many different model types to see wh
 
 ## Methods
 
-The way the data was preprocessed with feature engineering, filling missing values, and scaling was done with the goal of increasing accuracy of the models. For each type of model, a model was first trained and fitted with default parameters as a base. The tuned parameters were used to fit the same model using the resampled data for comparison. Performance was compared to the base model of each type, as well as between different model types.
+The way the data was preprocessed with feature engineering, filling missing values, and scaling was done with the goal of increasing accuracy of the models. For each type of model, a model was first trained and fitted with default parameters as a base. The tuned parameters were used to fit the same model using the resampled data for comparison. Performance was compared to the base model of each type, as well as between different model types. 
 
 ## Results
 
