@@ -35,7 +35,7 @@ Nearly one billion people suffer from a mental health condition. A mental disord
 
 Using data from Our World in Data[¹](https://ourworldindata.org/mental-health), machine learning was applied to predict the percentage of the population that will suffer a mental health condition in the years 2030 to 2080. These predictions could be used to recognize and develop ways to help the rising amount of people in the population with a mental health condition. Using tableau, we were able to relate the percentage of those with mental health conditions to -----
 
-The results show that ----
+The results show that anxiety and depression are the most prevalent mental health disorders, and its prevalence its growing steadily.
 
 
 ## Introduction
@@ -54,7 +54,7 @@ The goal of this project is to analyse data about countries affected by several 
 The data for this project is from Kaggle and was gathered from an article on Our World in Data[¹](https://ourworldindata.org/mental-health) and produced by the Institute for Health Metrics and Evaluation. The data demonstrates that mental health disorders are common everywhere. Improving awareness, recognition, support and treatment for this range of disorders should therefore be an essential focus for global health. 
 The data can be found at this website: https://www.kaggle.com/datasets/programmerrdai/mental-health-dataset?select=share-with-mental-or-substance-disorders-by-sex.csv
 
-For this project, data was taken from the years between 1989 and 2022 and consisted of worldwide geospatial coverage.
+For this project, data was taken from the years between 1989 and 2019 and consisted of worldwide geospatial coverage.
 
 ## Approach
 
@@ -73,6 +73,32 @@ The way the data was preprocessed with feature engineering, filling missing valu
 ----ML images
 
 **Overall the best model turned out to be the ...**
+
+## Analysis
+
+[Tableau was used](https://public.tableau.com/app/profile/patricia3281/viz/MentalHealthDisorders_16768057524010/MentalHealthDisorders) to analyse the prevalence of mental health disorders acrosss 210 countries, and the years lost due to mental health disorders. 
+
+![image](https://user-images.githubusercontent.com/109463488/220466703-38a5fbd8-27d0-4a3d-824e-1c95d52efefe.png)
+
+![image](https://user-images.githubusercontent.com/109463488/220466820-7fffa506-defe-4fd9-8309-6d41b2607004.png)
+
+One DALY represents the loss of the equivalent of one year of full health. DALYs for a disease or health condition are the sum of the years of life lost to due to premature mortality (YLLs) and the years lived with a disability (YLDs) due to prevalent cases of the disease or health condition in a population.
+
+The countries that have lost more years due to the prevalence of mental health disorders have lost up to 13 years (DALYs), whilst the countries where the prevalence of mental health disorders is lower have only lose around 1 year.
+
+![image](https://user-images.githubusercontent.com/109463488/220469839-79a772d9-f687-46e8-ad76-c4c983543469.png)
+
+The Machine Learning models wewe used to predict the prevalence of the disorders analysed in future years.
+
+![image](https://user-images.githubusercontent.com/109463488/220470197-92e2d27a-8c93-4216-a5b2-24106e12b3a5.png)
+
+![image](https://user-images.githubusercontent.com/109463488/220470255-5fb85c5f-19ec-4411-ace4-d85fe00901fc.png)
+
+## Conclusions
+
+Depression and anxiety are the most prevalent mental health disorders across the world, if the trend continues, in 2090 9% of the world population will siffere anxiety, and 6.5% will suffer depression.
+
+Eating disorders are almost non existant in less developed countries, but they affect people from wealthier countries and its prevalence is growing. By 2090, if nothing is done, 0.5% of the G20 countries will suffer from an eating disorder.
 
 ## Future Directions
 
