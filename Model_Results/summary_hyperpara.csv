@@ -1,0 +1,6 @@
+model,best_score,best_params
+svr,0.9737566792383674,"{'C': 10, 'kernel': 'rbf'}"
+random_forest,0.9912956003873925,{'n_estimators': 200}
+knn,0.9924943150601493,{'n_neighbors': 1}
+decision tree,0.8735804989027066,"{'max_depth': 5, 'min_samples_leaf': 5, 'min_samples_split': 8}"
+xgboost,0.9674727390747695,{'n_estimators': 10}
