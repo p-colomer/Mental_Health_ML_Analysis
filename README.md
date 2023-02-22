@@ -96,7 +96,7 @@ The Machine Learning models wewe used to predict the prevalence of the disorders
 
 ## Conclusions
 
-Depression and anxiety are the most prevalent mental health disorders across the world, if the trend continues, in 2090 9% of the world population will siffere anxiety, and 6.5% will suffer depression.
+Depression and anxiety are the most prevalent mental health disorders across the world, if the trend continues, in 2090 9% of the world population will suffer anxiety, and 6.5% will suffer depression.
 
 Eating disorders are almost non existant in less developed countries, but they affect people from wealthier countries and its prevalence is growing. By 2090, if nothing is done, 0.5% of the G20 countries will suffer from an eating disorder.
 
