@@ -95,6 +95,10 @@ Random Forest: Our choice
 - It enhances the accuracy of the model and prevents the overfitting issue
 - Robust to outliers 
 
+![image](https://user-images.githubusercontent.com/109463488/220936576-6426a865-3ef6-4be4-9a8d-cf9cb28021a9.png)
+
+![image](https://user-images.githubusercontent.com/109463488/220936626-3a258ca4-0f66-42cc-b5e7-bb7a990dbb1a.png)
+
 
 ## Analysis
 
@@ -115,6 +119,10 @@ The Machine Learning models wewe used to predict the prevalence of the disorders
 ![image](https://user-images.githubusercontent.com/109463488/220470197-92e2d27a-8c93-4216-a5b2-24106e12b3a5.png)
 
 ![image](https://user-images.githubusercontent.com/109463488/220470255-5fb85c5f-19ec-4411-ace4-d85fe00901fc.png)
+
+## User Interface using Streamlit
+
+![image](https://user-images.githubusercontent.com/109463488/220936850-891bec6e-dbdb-4bf9-a1f9-a9dbc64482df.png)
 
 ## Conclusions
 
