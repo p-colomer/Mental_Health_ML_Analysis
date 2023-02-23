@@ -71,11 +71,23 @@ The way the data was preprocessed with feature engineering, filling missing valu
 
 <img width="667" alt="image" src="https://user-images.githubusercontent.com/111776924/220191858-269df74f-af46-426e-9876-2685d8ed17a5.png">
 
-## Results
+## Process for chooosing Machine Learning Models 
 
-----ML images
 
-**Overall the best model turned out to be the ...**
+Correlation Matrix : To assess related parameters 
+
+
+Model Results :
+
+
+
+Random Forest: Our choice 
+- We tried hyperparameter tunning to get best model fit as well as tried different models to find which algorithm is giving better accuracy. We found that random forest is the better choice amongst all algorithms considering the accuracy along with  factors such as complexity , cost , speed  are taken into account.
+- It can handle both categorical and continuous variables.
+- It is capable of handling large datasets with high dimensionality. 
+- It enhances the accuracy of the model and prevents the overfitting issue
+- Robust to outliers 
+
 
 ## Analysis
 
