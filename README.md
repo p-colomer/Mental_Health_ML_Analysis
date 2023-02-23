@@ -71,15 +71,22 @@ The way the data was preprocessed with feature engineering, filling missing valu
 
 <img width="667" alt="image" src="https://user-images.githubusercontent.com/111776924/220191858-269df74f-af46-426e-9876-2685d8ed17a5.png">
 
-## Process for chooosing Machine Learning Models 
+## Process for choosing Machine Learning Models 
 
+![image](https://user-images.githubusercontent.com/109463488/220934450-593a8114-2062-488a-a7be-078e14e82b67.png)
 
 Correlation Matrix : To assess related parameters 
+
+![image](https://user-images.githubusercontent.com/109463488/220934517-27cdaa73-120f-4968-82bf-ce6e2668da98.png)
 
 
 Model Results :
 
+![image](https://user-images.githubusercontent.com/109463488/220934621-a8652dc6-0224-4ab5-b469-934117126f98.png)
 
+![image](https://user-images.githubusercontent.com/109463488/220934661-3c2ccdb6-fe09-4810-bb7a-d16066a83fd6.png)
+
+![image](https://user-images.githubusercontent.com/109463488/220934730-78a03c4b-39c0-443f-932a-93838a139ef8.png)
 
 Random Forest: Our choice 
 - We tried hyperparameter tunning to get best model fit as well as tried different models to find which algorithm is giving better accuracy. We found that random forest is the better choice amongst all algorithms considering the accuracy along with  factors such as complexity , cost , speed  are taken into account.
