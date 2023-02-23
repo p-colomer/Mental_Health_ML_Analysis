@@ -13,9 +13,12 @@
 - <b>README.md:</b> The top level README for reviewers of this project
 - <b>Data_Cleaning.ipynb:</b> Complete cleaning of all 5 csv files in jupyter notebook
 - <b>ML_Future_Years_Prediction.ipynb:</b> Further exploration of the data to predict the prevalence of mental health disorders in the most affected countries, the G20 countries and the world overall.
-- <b>Prediction_Slides:</b> The project presentation slides
+- <b>Database.sql:</b> Database
+- <b>ML_AgeYearsPrediction_DiffModels.ipynb:</b> ML models to predict the Disability Adjusted Life Years of countries
+- <b>Mental_Health_Analysis.pptx:</b> The project presentation slides
 - <b>Resources folder:</b> Contains the initial uncleaned data files
 - <b>Cleaned_data folder:</b> Contains the cleaned data files
+- <b>Website_Code Folder:</b> Contains the webpage created for the project
 
 ## Technologies Used
 
